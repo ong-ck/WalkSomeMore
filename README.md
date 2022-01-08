@@ -188,12 +188,12 @@
 ## Acknowledgments
 
 
-* [] () pyTelegramBotAPI library:
+* pyTelegramBotAPI library:
 https://github.com/eternnoir/pyTelegramBotAPI
-* [] () Keep_alive function:
+* Keep_alive function:
 https://www.youtube.com/watch?v=tMH16T74fWE
-* [] () LTA DataMall API: https://datamall.lta.gov.sg/
-* [] () Google Maps Distance Matrix API: https://developers.google.com/maps/documentation/distance-matrix/overview
+* LTA DataMall API: https://datamall.lta.gov.sg/
+* Google Maps Distance Matrix API: https://developers.google.com/maps/documentation/distance-matrix/overview
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
