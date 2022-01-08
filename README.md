@@ -98,8 +98,7 @@
 3. Get a paid API Key from Google Maps Plaform
 [https://mapsplatform.google.com/maps-products/](https://mapsplatform.google.com/maps-products/)
 
-4. Create a free account from MongoDB [https://www.mongodb.com/]
-(https://www.mongodb.com/)
+4. Create a free account from MongoDB [https://www.mongodb.com/](https://www.mongodb.com/)
 
 
 5. Clone the repo
